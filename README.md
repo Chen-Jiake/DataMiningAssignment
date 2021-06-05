@@ -1,9 +1,16 @@
 # DataMiningAssignment
 
 作业1使用的数据集：
-1. Wine Reviews
-2. Chicago Building Violations
+
+- Wine Reviews
+
+- Chicago Building Violations
 
 作业2使用的数据集：
 
-Wine Reviews
+- Wine Reviews
+
+作业3使用的数据集：
+
+- Video Game Sales
+
